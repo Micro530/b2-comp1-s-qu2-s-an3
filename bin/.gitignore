@@ -1,8 +1,12 @@
 /Boule.class
+/ClassTest.class
 /Jeu.class
 /JeuClient.class
 /JeuServeur.class
 /Joueur.class
 /Mur.class
 /Objet.class
-/ClassTest.class
+/model/
+/controleur/
+/outils/
+/vue/

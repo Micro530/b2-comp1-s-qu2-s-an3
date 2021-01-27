@@ -1,3 +1,5 @@
+package model;
+
 /**
  * Informations et méthodes communes aux jeux client et serveur
  *

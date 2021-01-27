@@ -1,3 +1,5 @@
+package model;
+
 /**
  * Gestion du jeu côté client
  *
